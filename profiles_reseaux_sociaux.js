@@ -1,7 +1,7 @@
 /**
- * Pour afficher les réseaux sociaux sur la fiche Google My Business, coe à mettre dans la partie <head>
+ * Pour afficher les rÃ©seaux sociaux sur la fiche Google My Business, code Ã  mettre dans la partie <head>
  *
- * @category   Référencement
+ * @category   RÃ©fÃ©rencement
  * @author     Joffrey HABAI <jh@ice-dev.com>
  * @date       2015 02 03
  */
